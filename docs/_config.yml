@@ -22,8 +22,8 @@ title: Chrissy Rodger's Portfolio
 email: chrissyrodgers20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my portfolio. This is where I will showcase my resume, my projects, and my experiences! 
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://cahhi/github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cahhi
 
 # Build settings
