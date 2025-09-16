@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-![](portfolio1.jpg) 
+![](portfolio2.jpg) 
 
 Welcome!
 
