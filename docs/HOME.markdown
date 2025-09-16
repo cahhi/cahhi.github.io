@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-![](portfolio1.jpg) ![](reading-girl.webp) ![](portofolio2.jpg)
+![](portfolio1.jpg) 
 
 Welcome!
 
