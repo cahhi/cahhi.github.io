@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Home Page"
 permalink: /home
-
+---
 #HOME
 
 ##Overview
