@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Software Projects
+permalink: /software-projects/
 ---
 
 ![](projectimage.png)
