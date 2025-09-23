@@ -3,8 +3,8 @@ layout: page
 title: Resume and Certifications
 permalink: /resume/
 ---
-Here is my [updated resume](file:///C:/Users/chris/Downloads/Data%20Analyst%20Resume.pdf)! Thank you for taking the time to look at my resume!
-![](DataAnalyticsResume.png)
+
+![](DataAnalyticsResume2.png)
 
 
 Udacity Business Analytics NanoDegree - August 2025
