@@ -22,4 +22,6 @@ ICAgile - [Implementing DevOps](https://www.credly.com/badges/61201612-0e8c-441e
 ICAgile - [Agile Fundamentals](https://www.credly.com/badges/a76aad6a-9b70-40cb-879b-40d396d0a4cd/linked_in_profile)
 ![](ICAgile-AgileFundamentals.png)
 
+You can verify all of my ICAgile Crendentials [here](https://www.icagile.com/verify-credentials) by entering the name "Chrissy Holmes"
+
 
