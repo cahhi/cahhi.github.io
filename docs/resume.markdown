@@ -4,7 +4,7 @@ title: Resume and Certifications
 permalink: /resume/
 ---
 
-![](DataAnalyticsResume2.png)
+![](resume1.png) ![](resume2.png)
 
 
 Udacity Business Analytics NanoDegree - August 2025
